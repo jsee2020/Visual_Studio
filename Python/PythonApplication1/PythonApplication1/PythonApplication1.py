@@ -12,7 +12,7 @@ class MyWindow(QDialog, form_class):
 
    def btn_clicked(self):
        self.textEdit.setText("Hello World!")
-       #self.textEdit_2.setText("Hello World!")
+       self.textEdit_2.setText("Hello World!")
 
 if __name__ == "__main__":
    app = QApplication(sys.argv)
