@@ -22,10 +22,10 @@ class MyWindow(QDialog, form_class):
        res = cursor.fetchall() 
        conn.commit() 
        conn.close()
-       setTables(res)
+       #return res
+       #setTables(res)
 
-
-       #self.textEdit_2.setText(data)
+       self.textEdit_2.setText(res)
 
 if __name__ == "__main__":
    app = QApplication(sys.argv)
