@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Python",
-    "\\Python\\PythonApplication1"
+    "\\Python\\PythonApplication1",
+    "\\Python\\PythonApplication1\\PythonApplication6",
+    "\\Python\\PythonApplication2"
   ],
-  "SelectedNode": "\\Python\\PythonApplication1\\PythonApplication1.sln",
+  "SelectedNode": "\\Python\\PythonApplication1\\PythonApplication6\\PythonApplication6.py",
   "PreviewInSolutionExplorer": false
 }
